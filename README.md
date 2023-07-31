@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Adrian Henry
 
-- 🔭 I’m currently working on a Web Developer Study Application
-- 🌱 I’m currently learning Full Stack Development and Reactjs
+- 🔭 I’m currently working with React 16 With Typescript In Class Components and Mob-x for JHT Inc.
+- 🌱 I’m currently working on a replica of Apple's Website with NextJS
 - 👯 I’m looking to collaborate on any Open Source Project
 - 💬 Ask me about my passion for Computer Science
 - 📫 How to reach me: adrianhenry2115@gmail.com
